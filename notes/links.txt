@@ -1,0 +1,6 @@
+Why choose RedHat over CentOS for Prod - https://www.redhat.com/en/resources/centos-stream-checklist
+What is CentOS Stream? - https://www.redhat.com/en/topics/linux/what-is-centos-stream
+Original CentOS Stream Announcement - https://www.redhat.com/en/blog/transforming-development-experience-within-centos
+The Future is CentOS Stream - https://blog.centos.org/2020/12/future-is-centos-stream/
+Wikipedia article on mirrors - https://en.wikipedia.org/wiki/Mirror_site
+
