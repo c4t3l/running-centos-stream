@@ -3,6 +3,8 @@ What is CentOS Stream? - https://www.redhat.com/en/topics/linux/what-is-centos-s
 Original CentOS Stream Announcement - https://www.redhat.com/en/blog/transforming-development-experience-within-centos
 The Future is CentOS Stream - https://blog.centos.org/2020/12/future-is-centos-stream/
 Wikipedia article on mirrors - https://en.wikipedia.org/wiki/Mirror_site
+NewStack article on CentOS 9 Stream - https://thenewstack.io/centos-9-stream-is-now-available-but-should-you-use-it/
+
 
 
 #######################
